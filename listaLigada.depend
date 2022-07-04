@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1584929505 source:c:\users\cejac\onedrive\escritorio\eda1\listaligada\main.cpp
+	<iostream>
+	"student.h"
+	"name.h"
+	"date.h"
+	"list.h"
+
+1583117393 source:c:\users\cejac\onedrive\escritorio\eda1\listaligada\date.cpp
+	"date.h"
+	<ostream>
+
+1583115720 c:\users\cejac\onedrive\escritorio\eda1\listaligada\date.h
+	<iostream>
+	<string>
+
+1583114963 source:c:\users\cejac\onedrive\escritorio\eda1\listaligada\name.cpp
+	"name.h"
+
+1583114787 c:\users\cejac\onedrive\escritorio\eda1\listaligada\name.h
+	<iostream>
+	<string>
+
+1583117457 source:c:\users\cejac\onedrive\escritorio\eda1\listaligada\student.cpp
+	"student.h"
+
+1583115114 c:\users\cejac\onedrive\escritorio\eda1\listaligada\student.h
+	<iostream>
+	<string>
+	"name.h"
+	"date.h"
+
+1584928095 c:\users\cejac\onedrive\escritorio\eda1\listaligada\list.h
+
+1583117393 source:c:\users\cejac\onedrive\escritorio\eda1\listadoblementeligadacircular\date.cpp
+	"date.h"
+	<ostream>
+
+1583115720 c:\users\cejac\onedrive\escritorio\eda1\listadoblementeligadacircular\date.h
+	<iostream>
+	<string>
+
+1585519852 source:c:\users\cejac\onedrive\escritorio\eda1\listadoblementeligadacircular\main.cpp
+	<iostream>
+	"student.h"
+	"name.h"
+	"date.h"
+	"list.h"
+
+1583115114 c:\users\cejac\onedrive\escritorio\eda1\listadoblementeligadacircular\student.h
+	<iostream>
+	<string>
+	"name.h"
+	"date.h"
+
+1583114787 c:\users\cejac\onedrive\escritorio\eda1\listadoblementeligadacircular\name.h
+	<iostream>
+	<string>
+
+1585520175 c:\users\cejac\onedrive\escritorio\eda1\listadoblementeligadacircular\list.h
+
+1583114963 source:c:\users\cejac\onedrive\escritorio\eda1\listadoblementeligadacircular\name.cpp
+	"name.h"
+
+1583117457 source:c:\users\cejac\onedrive\escritorio\eda1\listadoblementeligadacircular\student.cpp
+	"student.h"
+
+1583120993 source:d:\cucei\eda1\listadoblementeligadacircular\date.cpp
+	"date.h"
+	<ostream>
+
+1583119320 d:\cucei\eda1\listadoblementeligadacircular\date.h
+	<iostream>
+	<string>
+
+1585523452 source:d:\cucei\eda1\listadoblementeligadacircular\main.cpp
+	<iostream>
+	"student.h"
+	"name.h"
+	"date.h"
+	"list.h"
+
+1583118714 d:\cucei\eda1\listadoblementeligadacircular\student.h
+	<iostream>
+	<string>
+	"name.h"
+	"date.h"
+
+1583118387 d:\cucei\eda1\listadoblementeligadacircular\name.h
+	<iostream>
+	<string>
+
+1585523775 d:\cucei\eda1\listadoblementeligadacircular\list.h
+
+1583118563 source:d:\cucei\eda1\listadoblementeligadacircular\name.cpp
+	"name.h"
+
+1583121057 source:d:\cucei\eda1\listadoblementeligadacircular\student.cpp
+	"student.h"
+
+1583120993 source:c:\users\cejac\desktop\usb\cucei\eda1\listadoblementeligadacircular\date.cpp
+	"date.h"
+	<ostream>
+
+1583119320 c:\users\cejac\desktop\usb\cucei\eda1\listadoblementeligadacircular\date.h
+	<iostream>
+	<string>
+
+1585523452 source:c:\users\cejac\desktop\usb\cucei\eda1\listadoblementeligadacircular\main.cpp
+	<iostream>
+	"student.h"
+	"name.h"
+	"date.h"
+	"list.h"
+
+1583118714 c:\users\cejac\desktop\usb\cucei\eda1\listadoblementeligadacircular\student.h
+	<iostream>
+	<string>
+	"name.h"
+	"date.h"
+
+1583118387 c:\users\cejac\desktop\usb\cucei\eda1\listadoblementeligadacircular\name.h
+	<iostream>
+	<string>
+
+1585523775 c:\users\cejac\desktop\usb\cucei\eda1\listadoblementeligadacircular\list.h
+
+1583118563 source:c:\users\cejac\desktop\usb\cucei\eda1\listadoblementeligadacircular\name.cpp
+	"name.h"
+
+1583121057 source:c:\users\cejac\desktop\usb\cucei\eda1\listadoblementeligadacircular\student.cpp
+	"student.h"
+
